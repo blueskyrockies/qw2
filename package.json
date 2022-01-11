@@ -2,9 +2,9 @@
   "name": "qw2",
   "version": "1.0.0",
   "description": "qwirkle",
-  "main": "qw2.js",
+  "main": "QW2.js",
   "scripts": {
-    "start": "node qw2.js"
+    "start": "node QW2.js"
   },
   "repository": {
     "type": "git",
