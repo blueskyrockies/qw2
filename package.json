@@ -1,0 +1,20 @@
+{
+  "name": "qw2",
+  "version": "1.0.0",
+  "description": "qwirkle",
+  "main": "QW2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node QW2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueskyrockies/qw2.git"
+  },
+  "author": "JR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blueskyrockies/qw2/issues"
+  },
+  "homepage": "https://github.com/blueskyrockies/qw2#readme"
+}

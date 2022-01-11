@@ -3,8 +3,9 @@ var express = require('express');
 var app = express();
 var fs = require('fs');
 const { SourceMap } = require('module');
-var server = app.listen(80, function () {
-    console.log('Listening on http://localhost:80/');
+const port = process.env.PORT || 80
+var server = app.listen(port, function () {
+    console.log('Listening on http://localhost:' + port);
 });
 
 
